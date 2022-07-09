@@ -1,4 +1,3 @@
-# I have high config PC but not webcam so I had to run this program on my old laptop so output recorded is a bit slower due to its processing speed
 
 # requirements - pip install mediapipe
 #              - pip install opencv-python
